@@ -1,3 +1,7 @@
+please check <br>
+https://github.com/volumit/aurix_flasher_linux
+
+
 # aurix_flasher_tc3xx
 
 Some people asked. Install https://www.infineon.com/DAS Download + Install DASV8.0 Based on MCD API C++ demo project
